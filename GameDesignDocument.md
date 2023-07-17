@@ -27,11 +27,22 @@ As explain previously, the player has multiple way to enhance the mecha:
 
 ## Story and Setting
 ### Game World
-Describe the setting, environment, and atmosphere of the game.
+The game will take place in a dark cyberpunk world widely inspired by the post-modernism of Bladerunner and BLAME!
+Each level of the game will show to the player a new map of this vast and abandoned industrial world, endless factories and corporate flats, each one more abandoned than the others.
+The game does not explicitly tell the story of the world, if this place once was earth, or if there is even and end to this seemingly endless city. 
+We let the imagination of the player fill the gaps and create his own story of this world. Only thing that is certain is that the player is not the only one human in this world, and that there is still powerfull corporations financing twar machines like mechas and drones.
 ### Backstory
-Provide a background story or context for the Mecha's existence and its role within the game world.
+The player thanks to the prologue will learn that the character is a mecha driver that before the game events was working for a corporation, but after a mission gone wrong, the player was left for dead in the middle of a hostile environment. Only a small group of drivers survived, but after doing small mercenary jobs, the group was embushed by a group of mechas led by a mysterious driver wearing the colors of the corporation that left the player for dead. 
+Multiple drivers survived the ambush but the player was cut off from the group and the mecha was destroyed. 
+At the end of the prolouge, the player will find a new frame of unknown mecha, the only thing that the player knows is that the mechas seems at the same time really ancient but wielding some unknown technology, as the player enter the mecha, the machine start talking to him, it's not you usual AI...
+
 ### Narrative Elements
-Outline any story elements, characters, or plot points that will be integrated into the gameplay experience.
+The gameplay will present one main story and multiple side stories. The main story will be the one of the player trying to find the driver that destroyed his original mecha and the player searching for the survivors of the original group. 
+The player can also investigated side-stories:
+* stories of the npc that the player can rescue, likes survivors of the original group, or other friendly npcs
+* gathering information about the new mecha
+* investigating the world
+* learning about the corporation that organized the ambush
 
 ## Level Design
 ### Levels and Objectives
