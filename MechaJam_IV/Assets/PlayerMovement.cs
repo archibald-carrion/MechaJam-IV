@@ -17,6 +17,12 @@ public class PlayerMovement : MonoBehaviour
         movement.x = Input.GetAxisRaw("Horizontal");
         movement.y = Input.GetAxisRaw("Vertical");
 
+        // Normalize the movement vector if the player is moving diagonally
+        if (movement != Vector2.zero)
+        {
+            movement.Normalize();
+        }
+
         animator.SetFloat("horizontal", movement.x);
         animator.SetFloat("vertical", movement.y);
         animator.SetFloat("speed", movement.sqrMagnitude);
@@ -26,5 +32,9 @@ public class PlayerMovement : MonoBehaviour
     {
         // handle movement
         rb.MovePosition(rb.position + movement * moveSpeed * Time.fixedDeltaTime);
+    }
+
+    private void OnTriggerEnter2D(Collider2D collider) {
+        Debug.Log("hit something");
     }
 }
