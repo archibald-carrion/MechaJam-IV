@@ -73,9 +73,9 @@ Controls: Detail the control scheme for both keyboard/mouse and gamepad inputs.
 
 ## Technical Requirements
 ### Target Platforms
-Specify the intended platforms (e.g., PC, mobile) for the game.
+The Game is developed for PC (Windows), but can be ported to other platforms.
 ### Game Engine
-State the game engine you'll be using (e.g., Unity) and any specific technical considerations related to it.
+We use Unity 2022.3.4f1
 ### Performance Optimization
 Note any optimization strategies to ensure smooth performance on target platforms.
 
